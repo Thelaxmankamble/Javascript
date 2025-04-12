@@ -17,5 +17,22 @@ let someNumber = 17;
 let StringsomeNumber = String(someNumber);
 console.log(StringsomeNumber);
 
+// postfix
+let x1 = 5;
+let x2 = x1++;
+
+console.log(x1);
+console.log(x2);
+
+// prefix
+
+let a1 = 5;
+let b2 = ++a1;
+
+console.log(a1);
+console.log(b2);
+
+
+
 
 
